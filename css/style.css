@@ -304,9 +304,6 @@ button:focus,
     border-color : #cccccc;
     }
 
-/*-------------------
- * Expertise
- *-------------------*/
 .expertise-item {
     margin-bottom : 20px;
     }
@@ -315,10 +312,6 @@ button:focus,
     margin-bottom : 5px;
     font-weight   : 700;
     }
-
-/*-------------------
- * Skills Progressbar
- *-------------------*/
 
 .progress-item {
     position : relative;
@@ -403,10 +396,6 @@ button:focus,
     );
     }
 
-/*-------------------
- * Content Item
- *-------------------*/
-
 .content-item {
     margin-bottom : 40px;
     }
@@ -427,17 +416,10 @@ button:focus,
     color : #888888;
     }
 
-/*-------------------
- * Contact
- *-------------------*/
-
 .feedback-form {
     margin-top : 50px;
     }
 
-/*-------------------
- * Form Style
- *-------------------*/
 .form-control {
     height        : 50px;
     padding       : 0 20px;
@@ -454,12 +436,6 @@ button:focus,
 .form-control:active {
     box-shadow : none;
     }
-
-/* --------------------------------------------
- *   Footer
- *---------------------------------------------- */
-
-/* Copyright */
 
 .footer {
     padding : 30px 50px;
@@ -482,9 +458,6 @@ button:focus,
         }
     }
 
-/* ---------------------------------------------- /*
- * Preloader
-/* ---------------------------------------------- */
 #preloader {
     background : rgba(255, 255, 255,.8);
     bottom     : 0;
